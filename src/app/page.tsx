@@ -1,7 +1,9 @@
 const Page = () => {
   return (
-    <div>Case study</div>
-  )
+    <div>
+      Code Kodak
+    </div>
+  );
 }
 
 export default Page;
