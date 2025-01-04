@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Itaú Clone
+ 🚀 Projeto [Itaú] ☕✨: Uma homenagem à experiência ao banco itaú! Este é um projeto pessoal para aprimorar minhas habilidades de desenvolvimento web. Não é afiliado oficialmente ao itaú. O código-fonte está aberto para aprendizado e colaboração. Feedbacks são bem-vindos! #WebDevelopment #ProjetoPessoal #CódigoAberto
 
-## Getting Started
+## Funcionalidades
+- Reproduz a aparência e o layout da página inicial do Itaú.
+- Destaca as principais funcionalidades.
 
-First, run the development server:
+## Video da Tela
+![1](https://github.com/user-attachments/assets/7c77d8c4-f2ff-4ce7-9d9c-29cd9d21ae27)
+![2](https://github.com/user-attachments/assets/c06065e6-bb96-4ac6-b1bd-99ab93caba8a)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Instalação
+1. Clone este repositório em sua máquina local.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tecnologias Utilizadas
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Contribuição
 
-## Learn More
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-To learn more about Next.js, take a look at the following resources:
+## Licença
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
