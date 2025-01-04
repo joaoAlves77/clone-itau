@@ -1,8 +1,12 @@
+import SectionHero from "@/components/SectionHero";
+import SectionServices from "@/components/SectionServices";
+
 const Page = () => {
   return (
-    <div>
-      Code Kodak
-    </div>
+    <>
+      <SectionHero/>
+      <SectionServices/>
+    </>
   );
 }
 
